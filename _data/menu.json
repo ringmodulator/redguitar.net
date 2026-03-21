@@ -1,14 +1,10 @@
 [
   {
-    "title": "About",
-    "url": "/about/"
+    "title": "Upcoming Shows",
+    "url": "/calendar/"
   },
   {
-    "title": "Source",
-    "url": "https://github.com/shellen/hitchens-eleventy"
-  },
-  {
-    "title": "Original",
-    "url": "https://github.com/patdryburgh/hitchens"
+    "title": "Discography",
+    "url": "/discography/"
   }
 ]

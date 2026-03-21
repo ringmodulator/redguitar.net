@@ -62,6 +62,7 @@ module.exports = function(eleventyConfig) {
   });
 
   // Customize Markdown library
+  /*
   const markdownLibrary = markdownIt({
     html: true,
     breaks: false,
@@ -75,8 +76,8 @@ module.exports = function(eleventyConfig) {
     }),
     slugify: eleventyConfig.getFilter("slugify")
   });
-
   eleventyConfig.setLibrary("md", markdownLibrary);
+*/
 
   // Pagination
   eleventyConfig.addFilter("paginate", function(collection, size = 3) {

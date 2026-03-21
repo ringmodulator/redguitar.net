@@ -1,15 +1,14 @@
 {
-  "title": "Hitchens",
-  "email": "hello@patdryburgh.com",
-  "description": "An inarguably well-designed Eleventy theme.",
+  "title": "Red Guitar",
+  "email": "guitarist@redguitar.net",
+  "description": "Aaron Russell, guitarist",
   "url": "http://localhost:8081",
   "baseurl": "",
   "icon": "/assets/images/icon-512.png",
-  "twitter_username": "patdryburgh",
-  "github_username": "patdryburgh",
+  "github_username": "ringmodulator",
   "lang": "en",
   "paginate": 3,
   "hide_search": false,
-  "hide_credits": false,
-  "css_framework": "tailwind"
+  "hide_credits": true,
+  "css_framework": "scss"
 }
