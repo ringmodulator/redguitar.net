@@ -26,6 +26,7 @@ layout: default.njk
 
 <main class="home" id="main" role="main" aria-label="Content">
 <img src="/assets/images/looky-here.jpg" alt="Aaron Russell playing a red guitar" />
+<h2 class="content-title divided">Upcoming Shows</h2>
   <ul>
 	{% for show in shows.shows %}
 	<li>
@@ -37,7 +38,7 @@ layout: default.njk
     {% if pageNum > 0 %}
       Page {{ pageNum + 1 }}
     {% else %}
-      Posts
+      News
     {% endif %}
   </h2>
 
