@@ -29,7 +29,7 @@ layout: default.njk
   <ul>
 	{% for show in shows.shows %}
 	<li>
-		{{show.date}}: {{show.city}}, {{show.venue}} {% if show.acts %}with {{show.acts}}{% endif %}
+		{{show.date}}: {{show.city}}, {{show.venue}} {% if show.acts %}with {{show.acts | markdown | safe }}{% endif %}
 	</li>
 	{% endfor %}
 </ul>

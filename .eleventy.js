@@ -60,24 +60,20 @@ module.exports = function(eleventyConfig) {
     }
     return array.slice(0, n);
   });
+  
 
-  // Customize Markdown library
-  /*
-  const markdownLibrary = markdownIt({
-    html: true,
-    breaks: false,
-    linkify: true
-  }).use(markdownItAnchor, {
-    permalink: markdownItAnchor.permalink.ariaHidden({
-      placement: "after",
-      class: "anchor-link",
-      symbol: "#",
-      level: [1, 2, 3, 4],
-    }),
-    slugify: eleventyConfig.getFilter("slugify")
-  });
-  eleventyConfig.setLibrary("md", markdownLibrary);
-*/
+// Customize Markdown library
+const markdownLibrary = markdownIt({
+  html: true,
+  breaks: false,
+  linkify: true
+});
+eleventyConfig.setLibrary("md", markdownLibrary);
+
+// Add markdown filter for rendering markdown in data fields
+eleventyConfig.addFilter("markdown", (content) => {
+  return markdownLibrary.render(content);
+});
 
   // Pagination
   eleventyConfig.addFilter("paginate", function(collection, size = 3) {
