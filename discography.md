@@ -1,9 +1,9 @@
 ---
 layout: post.njk
-title: Discography
+title: Aaron Russell Discography
 ---
 
-## Solo
+## Solo Guitar
 - [Coral Music](https://thegertrudetapes.bandcamp.com/album/coral-music) (Gertrude Tapes, 2019)
 - [Red Guitar](https://sedimental.bandcamp.com/album/aaron-russell-red-guitar) (Sedimental, 2017)
 
