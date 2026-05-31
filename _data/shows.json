@@ -1,10 +1,16 @@
 {
     "shows": [
         {
-            "date": "May 27, 2026",
-            "city": "North Adams, MA",
-            "venue": "Belltower Records",
-            "acts": "[The Early](https://theearly.bandcamp.com/album/i-want-to-be-ready) and [Bent Light](https://thefamilystoned.bandcamp.com/album/see-him-clearly)"
+            "date": "July 24, 2026",
+            "city": "Ithaca, NY",
+            "venue": "Neighbors Gallery",
+            "acts": "[Sandy Ewen](https://www.sandyewen.com/)"
+        },
+        {
+            "date": "July 26, 2026",
+            "city": "Florence, MA",
+            "venue": "Feeding Tube Records",
+            "acts": "[Sandy Ewen](https://www.sandyewen.com/)"
         }
     ]
 }
