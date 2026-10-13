@@ -4,7 +4,42 @@
             "date": "May 27, 2026",
             "city": "North Adams, MA",
             "venue": "Belltower Records",
-            "acts": "[The Early](https://theearly.bandcamp.com/album/i-want-to-be-ready) and [Bent Light](https://thefamilystoned.bandcamp.com/album/see-him-clearly)"
+            "acts": "The Early and Bent Light"
+        },
+        {
+            "date": "July 10, 2026",
+            "city": "Greenfield, MA",
+            "venue": "Looky Here",
+            "Format": "Mystery Peanut Pump",
+            "acts": "Joshua Burkett, Sam Gas Can, and Noise Nomads"
+        },
+        {
+            "date": "July 24, 2026",
+            "city": "Ithaca, NY",
+            "venue": "Neighbors Gallery",
+            "format": "Sandy Ewen / Aaron Russell duo",
+            "acts": "Picastro"
+        },
+        {
+            "date": "July 25, 2026",
+            "city": "Greenfield, MA",
+            "venue": "Neighbors Gallery",
+            "format": "Frothy Shakes",
+            "acts": "Sandy Ewen (solo)"
+        },
+        {
+            "date": "July 26, 2026",
+            "city": "Florence, MA",
+            "venue": "Feeding Tube Records",
+            "format": "Sandy Ewen / Aaron Russell duo",
+            "acts": "MentalDrift"
+        },
+        {
+            "date": "September 22, 2026",
+            "city": "Brattleboro Vermont",
+            "venue": "Epsilon Spires",
+            "format": "Solo set",
+            "acts": "Connect Four and Tom Djll"
         }
     ]
 }

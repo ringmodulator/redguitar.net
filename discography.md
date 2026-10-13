@@ -3,9 +3,12 @@ layout: post.njk
 title: Aaron Russell Discography
 ---
 
-## Solo Guitar
+## Solo
 - [Coral Music](https://thegertrudetapes.bandcamp.com/album/coral-music) (Gertrude Tapes, 2019)
 - [Red Guitar](https://sedimental.bandcamp.com/album/aaron-russell-red-guitar) (Sedimental, 2017)
+
+## With Sandy Ewen
+- [Dissectologists](https://sedimental.bandcamp.com/album/dissectologists) (Sedimental, 2026)
 
 ## Moonsicles
 - [Bay of Seething](https://moonsicles.bandcamp.com/album/bay-of-seething) (Feeding Tube, 2016)
