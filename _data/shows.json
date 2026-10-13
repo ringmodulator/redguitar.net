@@ -3,27 +3,27 @@
         {
             "date": "November 5, 2026",
             "city": "Troy, NY",
-            "venue": "Sound House Records",
+            "venue": "<a href='https://www.soundhouserecordsny.com/' target='_blank'>Sound House Records</a>",
             "format": "Solo set",
-            "acts": "Michael Slyne and Rambutan Parashi",
+            "acts": "<a href='https://www.instagram.com/michaelslyneisnttheonlydreamer/' target='_blank'>Michael Slyne</a> and <a href='https://parashi.bandcamp.com/album/wave-function-collapse-cognitive-origami' target='_blank'>Parashi/Rambutan</a>",
             "time": "7PM",
             "price": "donations"
         },
         {
             "date": "November 6, 2026",
             "city": "Greenfield, MA",
-            "venue": "Greenfield Records",
+            "venue": "<a href='http://greenfieldrecordsma.com/' target='_blank'>Greenfield Records</a>",
             "format": "Solo set",
-            "acts": "Michael Slyne and Rambutan Parashi",
+            "acts": "<a href='https://www.instagram.com/michaelslyneisnttheonlydreamer/' target='_blank'>Michael Slyne</a> and <a href='https://parashi.bandcamp.com/album/wave-function-collapse-cognitive-origami' target='_blank'>Parashi/Rambutan</a>",
             "time": "7PM",
             "price": "donations"
         },
          {
             "date": "November 7, 2026",
             "city": "New London, CT",
-            "venue": "[The Golden Owl](https://goldenowl.shop/)",
+            "venue": "<a href='https://goldenowl.shop/' target='_blank'>The Golden Owl</a>",
             "format": "Solo set",
-            "acts": "Michael Slyne and John Truscinski",
+            "acts": "<a href='https://www.instagram.com/michaelslyneisnttheonlydreamer/' target='_blank'>Michael Slyne</a> and John Truscinski",
             "time": "7PM",
             "price": "donations"
         }
